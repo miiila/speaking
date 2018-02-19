@@ -13,7 +13,7 @@ _Tell your audience in first person about anything relevant about you, whether i
 Try keeping it between between 50 and 90 words.
 You can of course include anything fun or quirky about yourself._
 
-I am a developer with a passion for problem-solving, puzzles and guitar. I am a self-starter, who tried to complete formal education after years in a field. I have been working for corporates, small companies and startups. I still remember being completely fresh in the field. I was grateful for any guidance or advice, so I am trying to pay back by mentoring others. I currently live in London and work for https://snyk.io, company which tries to do Security as a Service.
+I am a developer with a passion for problem-solving, puzzles and guitar. I am a self-starter, who tried to complete formal education after years in a field. I have been working for corporates, small companies and startups. I still remember being completely fresh in the field. I was grateful for any guidance or advice, so I am trying to pay back by mentoring others. I currently live in London and work for https://snyk.io, company which provides Security as a Service.
 
 #### Got a video?
 _If you already have a recording of you giving a talk, you can paste the link here._
@@ -45,7 +45,7 @@ Security of your application is just a few clicks away
 #### Tell the audience about your talk in 1–3 paragraphs (90–200 words):
 _Introduce the problem your talk will bring a solution to. Then explain why it’s a problem worth solving and use the last paragraph to tell your audience what is your approach to solving it._
 
-Every time you type `pip install -r requirements.txt`, you are putting your web application and user data in a risk. Modern web applications are using dozens of 3rd party components, that are totally out of your control. You've already learned you should test your code, but I'll try to convince you that you should test _foreign_ code for the security vulnerabilities too.
+Every time you type `pip install -r requirements.txt`, you are putting your web application and user data at risk. Modern web applications are using dozens of 3rd party components, that are totally out of your control. You've already learned you should test your code, but I'll do my best to convince you that you should test external code for the security vulnerabilities too.
 
 In January, two biggest vulnerabilities, Meltdown and Spectre, were publicly disclosed (you might remember whole internet restarting few days after). Those are the most known ones, but smaller vulnerabilities are published nearly every day. And all of them can be exploited and used to abuse your application. Attacker might try take your application out, steal your users data or take advantage of your compute power.
 
@@ -70,7 +70,7 @@ Please state explicitly:
 3) how much in EUR or CZK.
 If you require aid for more items (accommodation, travel costs etc.) please state the amount for each item._
 
-Since I'll come from London to do a talk, it would be nice to have flight tickets covered. I am absolutely fine with low cost airlines, so my expectation would be around 1500CZK (I can provide the exact amount once I'd know the cfp result).
+Since I'll come from London to do a talk, it would be nice to have flight tickets covered. I am absolutely fine with low cost airlines, so my expectation would be around 1500CZK (I can provide the exact amount once I'd know the cfp result). I do not need anything else (accommodation, transport) and if the budget would be tight, I can handle it on my own.
 
 #### Anything else you want to tell us?
 
